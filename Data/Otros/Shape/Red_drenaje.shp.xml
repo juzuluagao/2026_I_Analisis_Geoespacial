@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20260625</CreaDate><CreaTime>00074500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\StreamToFeature" Date="20260625" Time="000745">StreamToFeature stream_links_py.tif FlowDir.tif C:\Analisis_Geoespacial\2026_I_Analisis_Geoespacial\Data\Otros\Shape\Red_drenaje.shp SIMPLIFY</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,12 @@
+Kernel,Parámetro,Variable,Valor
+RBF_ARD,constant_value,-,26.98345065210613
+RBF_ARD,length_scale,log_A,1.9622318691021245
+RBF_ARD,length_scale,Pend,3.3260808109816318
+RBF_ARD,length_scale,Elev,1.5744525401313507
+RBF_ARD,length_scale,LAI,3.7595067227439967
+RBF_ARD,length_scale,TPI,3.0627046566481417
+RBF_ARD,length_scale,Curv_Mean,2.5506495506350624
+RBF_ARD,length_scale,TRI_Mean,2.575627553987341
+RationalQuadratic,constant_value,-,68.85088285116714
+RationalQuadratic,length_scale,Todas,1.228524897945557
+RationalQuadratic,alpha,-,0.11778537021695532
